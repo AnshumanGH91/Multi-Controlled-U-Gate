@@ -1,1 +1,1 @@
-[Read the full LaTeX document (PDF)](Controlled U Gate.pdf)
+Please see details about the construction in Controlled U Gate.pdf
